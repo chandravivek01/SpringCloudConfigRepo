@@ -1,0 +1,4 @@
+my:
+ greeting: Welcome to VCS Project Portal
+ list: 
+  values: apple, banana, mango
